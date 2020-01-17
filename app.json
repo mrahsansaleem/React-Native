@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "myApp",
-    "slug": "myApp",
+    "name": "LoginAndSignup",
+    "slug": "LoginAndSignup",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
